@@ -1,11 +1,11 @@
 body{
-    background-color: #40e0d0;
+    /* background-color: #40e0d0; */
 }
 
 .carcasa{
     width: 250px;
-    height: 350px;
-    background-color: rgb(167, 223, 145);
+    height: 450px;
+    background-color: rgb(203, 201, 190);
     position: absolute;
     top: 50%;
     left: 50%;
@@ -16,7 +16,7 @@ body{
 }
 
 .fondo-pantalla{
-    background-color: rgb(110, 110, 110);
+    background-color: rgb(100, 96, 113);
     width: 80%;
     height: 50%;
     position: absolute;
@@ -37,7 +37,7 @@ body{
 .pantalla{
     width: 60%;
     height: 80%;
-    background-color: rgb(170, 170, 170);
+    background-color: rgb(84, 128, 0);
     position: absolute;
     top: 10%;
     left: 20%;
@@ -66,6 +66,7 @@ body{
     font-weight: bolder;
     font-size: 10px;
     line-height: 26px;
+    color: rgb(54, 41, 109);
 }
 
 .gb{
@@ -73,6 +74,7 @@ body{
     font-style: italic;
     text-transform: uppercase;
     font-weight: bolder;
+    color: rgb(54, 41, 109);
 }
 
 
@@ -89,7 +91,7 @@ body{
 .d-y{
     width: 13px;
     height: 30px;
-    background-color: black;
+    background-color: rgb(2, 6, 10);
     position: absolute;
     /* top: 50%; */
     left: 50%;
@@ -100,7 +102,7 @@ body{
 .d-x{
     width: 35px;
     height: 13px;
-    background-color: black;
+    background-color: rgb(2, 6, 10);
     position: absolute;
     top: 29%;
     left: 50%;
@@ -123,7 +125,7 @@ body{
 .b-a{
     width: 22px;
     height: 22px;
-    background-color: rgb(194, 76, 76);
+    background-color: rgb(150, 35, 87);
     border-radius: 10px;
     position: absolute;
     bottom: 5px;
@@ -134,7 +136,7 @@ body{
 .b-b{
     width: 22px;
     height: 22px;
-    background-color: rgb(194, 76, 76);
+    background-color: rgb(150, 35, 87);
     border-radius: 10px;
     position: absolute;
     top: 4px;
